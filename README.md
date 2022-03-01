@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @HaxingProgrammer
+ I’m @HaxingProgrammer
 
 
