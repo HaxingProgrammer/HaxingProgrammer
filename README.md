@@ -1,3 +1,2 @@
- I’m @HaxingProgrammer
-
-
+- 🔭 Software Devoloper 
+- 🌱 Estudante Sistemas da Informação 1/8
